@@ -1,13 +1,13 @@
 # AI Expense Dashboard
 
-Basit bir harcama takip paneli. Kullanici yeni harcamalar ekleyebilir, kategori bazli toplamlari gorebilir ve mevcut kayitlardan uretilen akilli ozetleri inceleyebilir.
+Basit bir harcama takip paneli. Kullanıcı yeni harcamalar ekleyebilir, kategori bazlı toplamları görebilir ve mevcut kayıtlardan üretilen akıllı özetleri inceleyebilir.
 
-## Ozellikler
+## Özellikler
 
 - Harcama ekleme formu
-- Kategori bazli harcama ozeti
-- Son eklenen harcamalari listeleme
-- Kayitlara gore otomatik yorum ureten ozet alani
+- Kategori bazlı harcama özeti
+- Son eklenen harcamaları listeleme
+- Kayıtlara göre otomatik yorum üreten özet alanı
 
 ## Gelistirme
 
@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-## Uretim derlemesi
+## Üretim derlemesi
 
 ```bash
 npm run build
@@ -24,5 +24,5 @@ npm run build
 
 ## Notlar
 
-- Uygulama su anda istemci tarafinda calisan yerel analiz mantigi kullanir.
-- Harici bir yapay zeka servisine baglanmak istersen, bunun icin guvenli bir backend katmani eklemen gerekir.
+- Uygulama su anda istemci tarafinda çalışan yerel analiz mantığı kullanır.
+- Harici bir yapay zeka servisine bağlanmak istersen, bunun icin güvenli bir backend katmanı eklemen gerekir.
